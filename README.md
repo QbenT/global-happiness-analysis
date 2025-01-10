@@ -24,8 +24,8 @@ This repository is organized as follows:
 
 - 01 Project Management: Contains project briefs and documentation.
 - 02 Data:
--- Raw Data: Unprocessed datasets.
--- Processed Data: Cleaned and prepared datasets ready for analysis.
+  - Raw Data: Unprocessed datasets.
+   - Processed Data: Cleaned and prepared datasets ready for analysis.
 - 03 Scripts: Python scripts used for data processing and visualization.
 - 04 Analysis: Contains visualizations that help explain insights and trends.
 - 05 Deliverables: Final reports, presentations, and recommendations for stakeholders.
@@ -33,28 +33,28 @@ This repository is organized as follows:
 The project uses a combination of Python, Tableau, and other tools for analysis and visualization:
 
 - Python Libraries:
--- Data Analysis: Pandas, NumPy
--- Visualization: Matplotlib, Seaborn
+  - Data Analysis: Pandas, NumPy
+   - Visualization: Matplotlib, Seaborn
 - Visualization:
--- Tableau for interactive dashboards and storytelling.
+   - Tableau for interactive dashboards and storytelling.
 - Development Environment:
--- Jupyter Notebooks for data processing and analysis.
+  - Jupyter Notebooks for data processing and analysis.
 ## Approach
 The project follows a structured workflow:
 
-Data Cleaning: Prepare raw data for analysis.
-Exploratory Data Analysis (EDA): Identify trends, patterns, and regional disparities.
-Visualization: Develop Tableau dashboards to present insights interactively.
-Analysis: Correlate happiness scores with key drivers such as GDP, social support, and freedom.
-Recommendations: Provide actionable insights to improve well-being globally.
+- Data Cleaning: Prepare raw data for analysis.
+- Exploratory Data Analysis (EDA): Identify trends, patterns, and regional disparities.
+- Visualization: Develop Tableau dashboards to present insights interactively.
+- Analysis: Correlate happiness scores with key drivers such as GDP, social support, and freedom.
+- Recommendations: Provide actionable insights to improve well-being globally.
 ## Insights and Recommendations
 The analysis revealed several key findings:
 
-Key Drivers of Happiness: Social support and GDP are the strongest contributors, with significant impact across all regions.
-Regional Disparities: Developed regions (e.g., Western Europe, North America) score consistently higher due to robust economic and social systems, while regions like Sub-Saharan Africa lag due to systemic challenges.
-Stable Trends: Happiness scores have remained relatively stable globally from 2015 to 2019, despite economic and social fluctuations.
-Actionable Policies: Investments in social support, healthcare, and institutional trust are critical for improving happiness in underperforming regions.
-Stakeholders and Expected Outcomes
+- Key Drivers of Happiness: Social support and GDP are the strongest contributors, with significant impact across all regions.
+- Regional Disparities: Developed regions (e.g., Western Europe, North America) score consistently higher due to robust economic and social systems, while regions like Sub-Saharan Africa lag due to systemic challenges.
+- Stable Trends: Happiness scores have remained relatively stable globally from 2015 to 2019, despite economic and social fluctuations.
+- Actionable Policies: Investments in social support, healthcare, and institutional trust are critical for improving happiness in underperforming regions.
+- Stakeholders and Expected Outcomes
 ## The project aims to inform:
 
 Policymakers: Highlight disparities and recommend strategies to improve well-being.
