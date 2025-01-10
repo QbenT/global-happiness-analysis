@@ -22,13 +22,13 @@ Disclaimer: The data reflects survey responses and may be subject to biases, inc
 ## Repository Structure
 This repository is organized as follows:
 
-01 Project Management: Contains project briefs and documentation.
-02 Data:
-Raw Data: Unprocessed datasets.
-Processed Data: Cleaned and prepared datasets ready for analysis.
-03 Scripts: Python scripts used for data processing and visualization.
-04 Analysis: Contains visualizations that help explain insights and trends.
-05 Deliverables: Final reports, presentations, and recommendations for stakeholders.
+- 01 Project Management: Contains project briefs and documentation.
+- 02 Data:
+-- Raw Data: Unprocessed datasets.
+-- Processed Data: Cleaned and prepared datasets ready for analysis.
+- 03 Scripts: Python scripts used for data processing and visualization.
+- 04 Analysis: Contains visualizations that help explain insights and trends.
+- 05 Deliverables: Final reports, presentations, and recommendations for stakeholders.
 ## Tools and Libraries
 The project uses a combination of Python, Tableau, and other tools for analysis and visualization:
 
